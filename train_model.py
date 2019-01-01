@@ -18,7 +18,7 @@ TRN_DATA_DIR = "assets/flower_data/train"
 VAL_DATA_DIR = "assets/flower_data/valid"
 BATCH_SIZE = 32
 NUM_EPOCHS = 1
-LOAD_MODEL = True
+LOAD_MODEL = False
 
 # for pipeline testing
 TEST_DATA = ['assets/flower_data/train/74/image_01218.jpg',

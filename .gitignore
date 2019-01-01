@@ -105,3 +105,8 @@ venv.bak/
 
 # pytorch-challenge
 misc/
+assets/*
+checkpoints/*
+!assets/.gitkeep
+!checkpoints/.gitkeep
+
